@@ -1,0 +1,8 @@
+# learning-rust/Cargo.toml
+
+[workspace]
+resolver = "3"
+members = [
+    "tutorial_01_basics",
+    # we will add more folders as we go...
+]
